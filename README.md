@@ -1,4 +1,4 @@
-# Sabor Caseiro
+# Cenario 1
 
 Site institucional fictício de um restaurante, desenvolvido como parte da Prova 2 de Gerência de Configuração de Software (UFMS, 2026/1).
 
