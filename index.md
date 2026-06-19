@@ -52,3 +52,9 @@ Ao longo dos anos, o restaurante conquistou a confiança da comunidade local por
 
 ---
 
+## Contato
+
+**Endereço:** Rua das Acácias, 123 — Centro  
+**Horário:** Terça a domingo, 11h às 22h  
+**Telefone:** (67) 99999-0000  
+**E-mail:** contato@saborcaseiro.exemplo  
