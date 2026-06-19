@@ -1,0 +1,51 @@
+name: Tarefa
+description: Tarefa a ser feita por um integrante da equipe
+title: "[Tarefa] "
+labels: []
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: O que precisa ser feito?
+      placeholder: Descreva objetivamente a tarefa.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: cenario
+    attributes:
+      label: Cenário relacionado
+      options:
+        - "Cenário 1 — GitHub Flow"
+        - "Cenário 2 — Git Flow"
+        - "Cenário 3 — Trunk-Based Development"
+    validations:
+      required: true
+
+  - type: input
+    id: responsavel
+    attributes:
+      label: Responsável
+      placeholder: "@username"
+    validations:
+      required: true
+
+  - type: input
+    id: branch
+    attributes:
+      label: Branch sugerida
+      placeholder: "ex: feature/login, nova-funcionalidade-homepage, feature-ajuste-contato"
+    validations:
+      required: true
+
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Critérios de aceite
+      description: Liste o que precisa estar pronto para a tarefa ser considerada concluída.
+      placeholder: |
+        - [ ] critério 1
+        - [ ] critério 2
+    validations:
+      required: true
