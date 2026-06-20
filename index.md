@@ -50,6 +50,17 @@ Ao longo dos anos, o restaurante conquistou a confiança da comunidade local por
 | Bolo de fubá quentinho | Com aquela casquinha por fora e macio por dentro, como tem que ser. | R$ 16 |
 | Pudim de leite | Receita da família, sem pressa, sem atalho. | R$ 14 |
 
+### Drinks
+
+| Prato                  | Descrição                                                     | Preço |
+| ---------------------- | ------------------------------------------------------------- | ----- |
+| Caipirinha Tradicional | Limão fresco, açúcar e cachaça artesanal preparados na hora.  | R$ 18 |
+| Caipirinha de Morango  | Morangos selecionados, limão e cachaça artesanal.             | R$ 22 |
+| Mojito da Casa         | Rum, hortelã fresca, limão e água com gás.                    | R$ 24 |
+| Gin Tônica Premium     | Gin premium, água tônica e especiarias selecionadas.          | R$ 28 |
+| Aperol Spritz          | Aperol, espumante e água com gás, servido com gelo e laranja. | R$ 30 |
+
+
 ---
 
 ## Contato
